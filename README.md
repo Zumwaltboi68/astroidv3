@@ -29,7 +29,7 @@ Install NPM packages:
 ```
 npm install
 ```
-Start:
+start:
 ```
 npm start
 ```
